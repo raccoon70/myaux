@@ -1,2 +1,2 @@
-# public-aux
+# myaux
 Public Auxiliary Functions
